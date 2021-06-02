@@ -1,4 +1,4 @@
-# Pandas
+# Pandas IO
 
 Neste curso conhecemos diferentes formas de entrada e saída IO (Json, html, csv, SQL, excel).
 
